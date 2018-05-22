@@ -1,3 +1,8 @@
+/*! Copyright (c) 2018 Kelven Yao (https://github.com/gy594)
+ * 
+ * Version: 1.1.1
+ *
+ */
 (function($) {
 
 $.fn.dropdownFilters = function(table, columns) {
